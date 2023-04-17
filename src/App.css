@@ -215,3 +215,13 @@ button:active {
     opacity: 1;
   }
 }
+@media (max-width: 480px) {
+  body {
+    background-color: #de3163;
+    display: block;
+  }
+  .home{
+    height: 100vh;
+    width: 100%;
+  }
+}
