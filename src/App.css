@@ -217,7 +217,6 @@ button:active {
 }
 @media (max-width: 580px) {
   body {
-    background-color: #de3163;
     display: block;
   }
   .home{
